@@ -1,0 +1,7 @@
+https://tutorcs.com
+WeChat: cstutorcs
+QQ: 749389476
+Email: tutorcs@163.com
+C:/Users/kewu1/Desktop/Code/cmake-build-debug/CMakeFiles/TP1.dir
+C:/Users/kewu1/Desktop/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kewu1/Desktop/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
